@@ -1,0 +1,26 @@
+# Dataset (too large for GitHub — download from UCI)
+online_retail_II.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled
+*.pyc
